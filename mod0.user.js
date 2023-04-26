@@ -4,8 +4,8 @@
 // @version      0.6.36
 // @description  Broadcast Yourself
 // @author       Thistle Café, Cosmic Cat Maintainers
-// @updateURL    https://raw.githubusercontent.com/thistlecafe/cosmic-cat/main/cosmic-cat.user.js
-// @downloadURL  https://raw.githubusercontent.com/thistlecafe/cosmic-cat/main/cosmic-cat.user.js
+// @updateURL    https://raw.githubusercontent.com/WinHack9702GitHub/CosmicCatMod1f3d/main/mod0.user.js
+// @downloadURL  https://raw.githubusercontent.com/WinHack9702GitHub/CosmicCatMod1f3d/main/mod0.user.js
 // @match        https://www.youtube.com/*
 // @exclude      https://www.youtube.com/embed/*
 // @icon         https://github.com/thistlecafe/cosmic-cat-branding/raw/main/icon.png
